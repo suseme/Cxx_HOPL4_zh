@@ -1,0 +1,48 @@
+{
+  "author": "Bjarne Stroustrup",
+  "description": "",
+  "direction": "ltr",
+  "gitbook": "",
+  "language": "zh-hans",
+  "links": {
+    "sharing": {
+      "all": null,
+      "facebook": null,
+      "google": null,
+      "twitter": null,
+      "weibo": null
+    },
+    "sidebar": {
+      "Original PDF": "https://www.stroustrup.com/hopl20main-p5-p-bfc9cd4--final.pdf"
+    }
+  },
+  "plugins": [
+    "ga",
+    "simple-page-toc",
+    "splitter",
+    "expandable-chapters-small",
+    "anchor-navigation-ex"
+  ],
+  "pluginsConfig": {
+    "anchor-navigation-ex": {
+      "isShowTocTitleIcon": true,
+      "showLevel": false,
+      "tocLevel1Icon": "fa fa-hand-o-right",
+      "tocLevel2Icon": "fa fa-hand-o-right",
+      "tocLevel3Icon": "fa fa-hand-o-right"
+    },
+    "ga": {
+      "token": "G-6JKFXBVLWS"
+    },
+    "simple-page-toc": {
+      "maxDepth": 3,
+      "skipFirstH1": true
+    }
+  },
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "styles": {},
+  "title": "在拥挤和变化的世界中茁壮成长：C++ 2006–2020"
+}
